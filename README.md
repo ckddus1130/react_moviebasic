@@ -1,4 +1,4 @@
 # React Movie app
 
--- react movie app fundamental study
+react movie app fundamental study
 
